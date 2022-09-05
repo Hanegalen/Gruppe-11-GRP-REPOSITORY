@@ -5,3 +5,5 @@ Arman Mangal https://github.com/arman7203
 Felix Leon Hammond https://github.com/felixlhh/
 
 Shekina Lokoto https://github.com/Shekina22
+
+Tobias Kinn https://github.com/Hanegalen
